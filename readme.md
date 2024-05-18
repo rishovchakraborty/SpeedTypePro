@@ -11,7 +11,7 @@ SpeedTypePro is a web application that challenges users to test and improve thei
 
 ## Demo
 
-Try it out [here](https://your-google-page-link).
+Try it out [https://rishovchakraborty.github.io/SpeedTypePro/].
 
 ## Getting Started
 
@@ -43,6 +43,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [@your-twitter-handle](https://twitter.com/your-twitter-handle) - your-email@example.com
+Rishov Chakraborty - [https://www.linkedin.com/in/rishov-chakraborty-837311253/](https://twitter.com/your-twitter-handle) - rishon3003@gmail.com
 
-Project Link: [https://github.com/your-username/SpeedTypePro](https://github.com/your-username/SpeedTypePro)
+Project Link: [https://github.com/rishovchakraborty/SpeedTypePro](https://github.com/your-username/SpeedTypePro)
